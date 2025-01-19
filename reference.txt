@@ -1,2 +1,12 @@
 // References for Future Practice Problems:
 // https://leetcode.com/problem-list/xi4ci4ig/
+
+
+// Longest Substr Without Repeating Charas:
+// https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=xi4ci4ig
+
+// Valid Parenthesis
+// https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=xi4ci4ig
+
+// Merge 2 Sorted Lists
+// https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=xi4ci4ig

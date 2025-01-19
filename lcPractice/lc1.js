@@ -13,4 +13,17 @@ const twoSum = (nums, target) => {
     return [-1, -1];
 }
 
-// Try Hash Map Solution
+// Hash Map Solution
+// Remember: Objs = Hashmaps too
+const twoSumHashMap = (nums, target) => {
+    const obj = {};
+    for(let i = 0; i < nums.length; i++) {
+        const currentValue = nums[i];
+        const complement = target - currentValue;
+        if(obj?.[complement] !== undefined) {
+            return [i, nums.indexOf(complement)]
+        }
+        obj[currentValue] = i;
+    }
+    return [-1, -1];
+}
