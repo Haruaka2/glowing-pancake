@@ -1,12 +1,53 @@
 // References for Future Practice Problems:
 // https://leetcode.com/problem-list/xi4ci4ig/
 
+(ORDER OF PRIORITY FOR PRACTICE)
+// Leetcode Warmups
 
-// Longest Substr Without Repeating Charas:
-// https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=xi4ci4ig
+// Remove Duplicates from Sorted Array
+https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/
+
+// Check if two string arrays are equivalent
+https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/
 
 // Valid Parenthesis
 // https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=xi4ci4ig
 
+// First Unique Character
+https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/881/
+
+// Longest Odd #
+https://leetcode.com/problems/largest-odd-number-in-string/description/
+
+// Rotate Array
+https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/646/
+
+// Merge Sorted Array
+https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150
+
 // Merge 2 Sorted Lists
 // https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=xi4ci4ig
+
+// Longest Substr Without Repeating Charas:
+// https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=xi4ci4ig
+
+// Reverse Values:
+https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+
+// Group Anagrams
+https://leetcode.com/problems/group-anagrams/description/
+
+// Leetcode Challenges: (for idea storage)
+https://leetcode.com/problems/product-of-array-except-self/description/
+https://leetcode.com/problems/min-stack/description/
+https://leetcode.com/problem-list/merge-sort/
+https://leetcode.com/problems/sort-an-array/description/
+https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150
+
+
+
+
+
+
+
